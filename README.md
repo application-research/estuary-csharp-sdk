@@ -1,3 +1,5 @@
+:no_entry: [DEPRECATED] Active at https://github.com/application-research/estuary-clients
+
 # Org.OpenAPITools - the C# library for the Estuary API
 
 This is the API for the Estuary application.
